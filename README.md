@@ -1,2 +1,2 @@
-# unexx-sas..github.io
+# unexx-sas.github.io
 Main entry ofr unexx repository
